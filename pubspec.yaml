@@ -27,7 +27,7 @@ environment:
 # dependencies can be manually updated by changing the version numbers below to
 # the latest version available on pub.dev. To see which dependencies have newer
 # versions available, run `flutter pub outdated`.
-dependencies:
+dependencies:  print_bluetooth_thermal: ^1.2.5
   sqflite: ^2.4.2
   path: ^1.9.1
   shared_preferences: ^2.5.3
